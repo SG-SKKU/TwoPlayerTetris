@@ -1,0 +1,16 @@
+Player 1: The preset File is applied to a board.
+Player 1 is waiting for a new block...BlockI generated.
+BlockJ generated.
+BlockL generated.
+BlockO generated.
+BlockS generated.
+BlockT generated.
+BlockZ generated.
+Player 2: The preset File is applied to a board.
+Player 2 is waiting for a new block...BlockI generated.
+BlockJ generated.
+BlockL generated.
+BlockO generated.
+BlockS generated.
+BlockT generated.
+BlockZ generated.
